@@ -1,3 +1,10 @@
+## The website is about buying, selling, and trading skins within the FPS shooting game CS2.
+## This project can involve searching, filtering, buying, and selling various products.
+## The technology stack being used:
+#  frontend: Vue.js,
+#  backend: TypeScript,
+#  database: MongoDB.
+
 #Collab BachTX
 # banana-shop
 
